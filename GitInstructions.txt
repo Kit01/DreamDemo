@@ -1,0 +1,11 @@
+1. Sign up for github - www.github.com
+
+2. Download git - http://code.google.com/p/msysgit/downloads/list
+
+3. Follow instructions on setting up git - http://help.github.com/win-set-up-git/
+
+***NOTE*** You do not have to create a repository at this time, however if you would like to you can do so by following the guide at - 
+
+4. Fork the SaberRider repository by following the guide at, and replacing "Spoon-Knife" with "SaberRider" - http://help.github.com/fork-a-repo/ -    contact Zach / Chris for repository passphrase.
+
+5. 
