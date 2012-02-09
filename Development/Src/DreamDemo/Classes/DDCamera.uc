@@ -12,5 +12,5 @@ protected function GameCameraBase FindBestCameraType(Actor CameraTarget)
 
 DefaultProperties
 {
-    ThirdPersonCameraClass=class'DreamDemo.DDThirdPersionCam'
+    ThirdPersonCameraClass=class'DreamDemo.DDThirdPersonCam'
 }

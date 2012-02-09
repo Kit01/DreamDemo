@@ -14,7 +14,4 @@ defaultproperties
 
 	DefaultPawnClass=class'DDBasePlayerPawn'
 	PlayerControllerClass=class'DDBasePlayerController'
-
-	//HUDType=class'DDHUD'
-	bUseClassicHUD=true
 }
